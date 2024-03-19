@@ -1,0 +1,21 @@
+// STEP 4a: Create i-scream.json file with companyName, headOffice, established, active, topFlavors(name, calories, type, ingredients, image) */
+{
+    "companyName":"IScream Company Inc.",
+    "headOffice": "North Pole",
+    "established" : 2024,
+    "active": true,
+    "topFlavors" : [{
+        "name": "Chocolate Mint",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup","Peppermint Sprinkles","Vanilla Base"],
+        "image" : 
+        
+    }, {
+        "name": "Peach Mango",
+        "calories": 200,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup","Mango Chunks","Vanilla Base"],
+        "image" : 
+    }]
+}
